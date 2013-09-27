@@ -1,4 +1,4 @@
-package amsdams;
+package com.github.amsdams.iitcscriptstool;
 
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;

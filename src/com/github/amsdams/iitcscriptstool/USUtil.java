@@ -1,4 +1,4 @@
-package amsdams;
+package com.github.amsdams.iitcscriptstool;
 
 import java.io.BufferedReader;
 import java.io.File;
